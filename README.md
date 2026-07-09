@@ -1,4 +1,4 @@
-#ExpenseFlow
+#ExpenseFlow 💰
 
 A Expense Tracker built using React.js and Tailwind CSS
 
